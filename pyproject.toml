@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pelican-table-wrapper"
-version = "1.0.0"
+version = "1.0.1"
 description = "Pelican plugin for wrapping table into classed div"
 authors = ["Pawo1"]
 license = "MIT"
