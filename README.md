@@ -1,4 +1,4 @@
-[![Build Status](https://img.shields.io/github/workflow/status/pelican-plugins/table-wrapper/build)](https://github.com/pawo1/table-wrapper/actions)
+[![Build Status](https://img.shields.io/github/workflow/status/pawo1/table-wrapper/build)](https://github.com/pawo1/table-wrapper/actions)
 [![PyPI Version](https://img.shields.io/pypi/v/pelican-table-wrapper)](https://pypi.org/project/pelican-table-wrapper/)
 ![License](https://img.shields.io/pypi/l/pelican-table-wrapper?color=blue)
 
